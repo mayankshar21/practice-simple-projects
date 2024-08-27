@@ -1,0 +1,15 @@
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/bin/Debug/net8.0/bin_2_dec_app
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/bin/Debug/net8.0/bin_2_dec_app.deps.json
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/bin/Debug/net8.0/bin_2_dec_app.runtimeconfig.json
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/bin/Debug/net8.0/bin_2_dec_app.dll
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/bin/Debug/net8.0/bin_2_dec_app.pdb
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.AssemblyInfoInputs.cache
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.AssemblyInfo.cs
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.csproj.CoreCompileInputs.cache
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.sourcelink.json
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.dll
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/refint/bin_2_dec_app.dll
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.pdb
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/bin_2_dec_app.genruntimeconfig.cache
+/Users/mayankshar21/data_files/projects/practice-simple-projects/c_sharp/bin_2_dec_app/obj/Debug/net8.0/ref/bin_2_dec_app.dll
